@@ -16,7 +16,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Nicolasr3/download/raw/Arduino/cores/core-misterino-samd/1.0.0.zip",
+          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-misterino-samd/1.0.0.zip",
           "archiveFileName": "1.0.0.zip",
           "checksum": "SHA-256:3710f202c714eda8e66d4207dc14347f6862a5b08a163b5701d4d293e0ab2f78",
           "size": "1642862",
