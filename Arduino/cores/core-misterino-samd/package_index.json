@@ -101,6 +101,53 @@
               "version": "1.2.1"
             }
           ]
+        },
+        {
+          "name": "Misterino SAMD Boards (32-bits ARM Cortex-M0+)",
+          "architecture": "samd",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-misterino-samd/1.0.1.zip",
+          "archiveFileName": "1.0.1.zip",
+          "checksum": "SHA-256:aff0389283583aa36427dc4064344571882be21e2d2b3e6e6cf4baf555f421dc",
+          "size": "1649206",
+          "boards": [
+            {
+              "name": "Misterino Zero (Native USB Port)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ]
     }
