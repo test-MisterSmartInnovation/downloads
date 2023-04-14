@@ -62,7 +62,7 @@
           "category": "Contributed",
           "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-misterino-samd/1.0.1.zip",
           "archiveFileName": "1.0.1.zip",
-          "checksum": "SHA-256:89ffbf4ea6404b06ada769250fe916144e3ab0b5cc79983c9db6bb0d6e8a3c7c",
+          "checksum": "SHA-256:2a968cf8981e63f3bcb430bdcd33d307a3f29c17c2d831f667fe8429be291a9d",
           "size": "1649374",
           "boards": [
             {
