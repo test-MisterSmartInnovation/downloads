@@ -379,6 +379,83 @@
           "toolsDependencies": null
         }
       ]
+    },
+    {
+      "name": "arduino",
+      "mainteiner": "Mister",
+      "websiteURL": "http://www.arduino.cc/en/Reference/HomePage",
+      "help": {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
+        {
+          "name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-arduino-samd/1.0.0.zip",
+          "archiveFileName": "1.0.0.zip",
+          "checksum": "SHA-256:ffe4f0995a360587f4d26e84cca70b21d1d64888634adfd36614e7c6d5ca529d",
+          "size": "1646838",
+          "boards": [
+            {
+              "name": "Arduino MKR1000"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "platforms": [
+        {
+          "name": null,
+          "architecture": null,
+          "version": "1.0.0",
+          "category": null,
+          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-arduino-samd/1.0.0.zip",
+          "archiveFileName": "1.0.0.zip",
+          "checksum": "SHA-256:ffe4f0995a360587f4d26e84cca70b21d1d64888634adfd36614e7c6d5ca529d",
+          "size": "1646838",
+          "boards": [
+            {
+              "name": "Arduino MKR1000"
+            }
+          ],
+          "toolsDependencies": null
+        }
+      ]
     }
   ]
 }
