@@ -302,7 +302,7 @@
       ]
     },
     {
-      "name": "misterino",
+      "name": "arduino",
       "mainteiner": "Mister",
       "websiteURL": "http://www.arduino.cc/en/Reference/HomePage",
       "help": {
@@ -310,20 +310,17 @@
       },
       "platforms": [
         {
-          "name": "Misterino SAMD Boards (32-bits ARM Cortex-M0+)",
+          "name": "Arduino SAMD Boards (32-bits ARM Cortex-M0+)",
           "architecture": "samd",
-          "version": "1.0.4",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-misterino-samd/1.0.4.zip",
-          "archiveFileName": "1.0.4.zip",
-          "checksum": "SHA-256:075d49e40b3b14232c0bb3a1ac15365b31fb495077716a86f91fac74981b5bb6",
-          "size": "1676142",
+          "url": "https://github.com/Nicolasr3/downloads/raw/main/Arduino/cores/core-arduino-samd/1.0.0.zip",
+          "archiveFileName": "1.0.0.zip",
+          "checksum": "SHA-256:ffe4f0995a360587f4d26e84cca70b21d1d64888634adfd36614e7c6d5ca529d",
+          "size": "1646838",
           "boards": [
             {
-              "name": "Misterino Zero (Native USB Port)"
-            },
-            {
-              "name": "Misterino 101 (Native USB Port)"
+              "name": "Arduino MKR1000"
             }
           ],
           "toolsDependencies": [
@@ -356,20 +353,6 @@
               "packager": "arduino",
               "name": "arduinoOTA",
               "version": "1.2.1"
-            }
-          ]
-        },
-        null,
-        null,
-        {
-          "checksum": "SHA-256:075d49e40b3b14232c0bb3a1ac15365b31fb495077716a86f91fac74981b5bb6",
-          "size": "1676142",
-          "boards": [
-            {
-              "name": "Misterino Zero (Native USB Port)"
-            },
-            {
-              "name": "Misterino 101 (Native USB Port)"
             }
           ]
         }
