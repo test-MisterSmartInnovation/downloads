@@ -17,12 +17,12 @@
       ],
       "repository": "https://github.com/percoca/arduino-lib-SAMDTimerCounter",
       "dependencies": [
-        "{}"
+        {}
       ],
       "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/arduino-lib-SAMDTimerCounter/0.1.1.zip",
       "archiveFileName": "0.1.1.zip",
-      "size": "10647",
-      "checksum": "SHA-256:571c90eeec06e1acf122ba6a0096b2eb29053fc73a6d203385cfa99bae5569bf"
+      "size": "10642",
+      "checksum": "SHA-256:25badc20394023ab733920eab6dec55e891e8e2cdb7661147fa8b8c2b8ddbfb3"
     }
   ]
 }
