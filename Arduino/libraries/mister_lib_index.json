@@ -1,0 +1,28 @@
+{
+  "libraries": [
+    {
+      "name": "arduino-lib-SAMDTimerCounter",
+      "version": "0.1.1",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "Allows Arduino SAMD boards to enable timer interrupts.",
+      "paragraph": "This library allows you to enable timer interrupts with a resolution of 1 microseconds.",
+      "website": "https://github.com/percoca/arduino-lib-SAMDTimerCounter",
+      "category": "Device Timer",
+      "architectures": [
+        "samd"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/percoca/arduino-lib-SAMDTimerCounter",
+      "dependencies": [
+        ""
+      ],
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/arduino-lib-SAMDTimerCounter/0.1.1.zip",
+      "archiveFileName": "0.1.1.zip",
+      "size": "10646",
+      "checksum": "SHA-256:c4af8f812c853f61003bad48c0d82d4f1cee6646ddb0af4df2b8209703156020"
+    }
+  ]
+}
