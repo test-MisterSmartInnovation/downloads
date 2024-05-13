@@ -251,7 +251,7 @@
           "architecture": "samd",
           "version": "1.0.5",
           "category": "Contributed",
-          "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/cores/core-misterino-samd/1.0.5.zip",
+          "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/core/core-misterino-samd/1.0.5.zip",
           "archiveFileName": "1.0.5.zip",
           "checksum": "SHA-256:bce49b01814d5d11e4f344ce918a65e2958dc1c28dec9863b4814a7a621d9b1f",
           "size": "1676718",
