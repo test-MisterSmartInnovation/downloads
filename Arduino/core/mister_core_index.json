@@ -255,8 +255,46 @@
           "archiveFileName": "1.0.5.zip",
           "checksum": "SHA-256:bce49b01814d5d11e4f344ce918a65e2958dc1c28dec9863b4814a7a621d9b1f",
           "size": "1676718",
-          "boards": "[{\"name\":\"Misterino ZERO (Native USB Port)\"},{\"name\":\"Misterino 101 (Native USB Port)\"}]",
-          "toolsDependencies": "[{\"packager\":\"arduino\",\"name\":\"arm-none-eabi-gcc\",\"version\":\"7-2017q4\"},{\"packager\":\"arduino\",\"name\":\"bossac\",\"version\":\"1.7.0-arduino3\"},{\"packager\":\"arduino\",\"name\":\"openocd\",\"version\":\"0.10.0-arduino7\"},{\"packager\":\"arduino\",\"name\":\"CMSIS\",\"version\":\"4.5.0\"},{\"packager\":\"arduino\",\"name\":\"CMSIS-Atmel\",\"version\":\"1.2.0\"},{\"packager\":\"arduino\",\"name\":\"arduinoOTA\",\"version\":\"1.2.1\"}]"
+          "boards": [
+            {
+              "name": "Misterino ZERO (Native USB Port)"
+            },
+            {
+              "name": "Misterino 101 (Native USB Port)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ]
     },
