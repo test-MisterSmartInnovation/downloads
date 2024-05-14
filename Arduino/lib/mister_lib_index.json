@@ -1,6 +1,27 @@
 {
   "libraries": [
     {
+      "name": "lib-arduino-Buffer",
+      "version": "1.0.0",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Arduino <info@arduino.cc>",
+      "sentence": "This library allows you to add value in a buffer as a FIFO queue.",
+      "paragraph": "This library allows you to add value in a buffer as a FIFO queue.",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-Buffer",
+      "category": "Device Control",
+      "architectures": [
+        "*"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-Buffer/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 8319,
+      "checksum": "SHA-256:0181fd3362cae4ec26aca490c06beaa72def95f8dc1728dc0a18cd5df2f59b5a"
+    },
+    {
       "name": "lib-arduino-micro_ros_arduino",
       "version": "v2.0.7-humble-0.1.0",
       "author": "micro-ROS",
