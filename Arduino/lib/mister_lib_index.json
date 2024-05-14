@@ -41,6 +41,27 @@
       "archiveFileName": "v2.0.7-humble-0.1.0.zip",
       "size": 3410009,
       "checksum": "SHA-256:562e5c018568d55df1833dd2734eeb1aedc80563641445f16b444c80f9b9ab34"
+    },
+    {
+      "name": "lib-arduino-StepperCtrl",
+      "version": "1.0.0",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Arduino <info@arduino.cc>",
+      "sentence": "Allows Arduino boards to control stepper motors in postion and speed mode.",
+      "paragraph": "This library allows you to control unipolar or bipolar stepper motors in position and speed mode. To use it you will need a stepper motor, and the appropriate hardware to control it.",
+      "website": "https://github.com/test-MisterSmartInnovatio/lib-arduino-StepperCtrl",
+      "category": "Device Control",
+      "architectures": [
+        "*"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperCtrl/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 11593,
+      "checksum": "SHA-256:8935b31629d7c67913c2afc3e1931922e5e5f17a0a1f592312a4103f7087481a"
     }
   ]
 }
