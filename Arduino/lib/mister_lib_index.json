@@ -18,8 +18,8 @@
       "repository": "",
       "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-Buffer/1.0.0.zip",
       "archiveFileName": "1.0.0.zip",
-      "size": 8662,
-      "checksum": "SHA-256:97c18ca67c9e841e4a895fe1e0cb09828d9b6a0fc1ed8a436bf7a02ef8b20e65"
+      "size": 8658,
+      "checksum": "SHA-256:b7e105d222b42c4799ee700a0326e3ade76afdda86d1addf3a53f756d6c97389"
     },
     {
       "name": "lib-arduino-micro_ros_arduino",
