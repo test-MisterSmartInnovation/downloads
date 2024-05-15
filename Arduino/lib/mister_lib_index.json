@@ -22,25 +22,46 @@
       "checksum": "SHA-256:4a1dca2a62e1a757e846374a91ce9c3e03a35b8d49b15d8a312b42b13057fe62"
     },
     {
-      "name": "lib-arduino-micro_ros_arduino",
-      "version": "v2.0.7-humble-0.1.0",
-      "author": "micro-ROS",
-      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
-      "sentence": "micro-ROS Arduino library",
-      "paragraph": "micro-ROS Arduino library",
-      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino",
-      "category": "Other",
+      "name": "lib-arduino-SAMDTimerCounter",
+      "version": "0.1.1",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "Allows Arduino SAMD boards to enable timer interrupts.",
+      "paragraph": "This library allows you to enable timer interrupts with a resolution of 1 microseconds.",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-SAMDTimerCounter",
+      "category": "Device Timer",
       "architectures": [
-        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
+        "samd"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino/v2.0.7-humble-0.1.0.zip",
-      "archiveFileName": "v2.0.7-humble-0.1.0.zip",
-      "size": 3410009,
-      "checksum": "SHA-256:562e5c018568d55df1833dd2734eeb1aedc80563641445f16b444c80f9b9ab34"
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-SAMDTimerCounter/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 11313,
+      "checksum": "SHA-256:3f583e38955e3cf96a6d669eeb5ba31074b933734daeb236b9efb9157a711b4f"
+    },
+    {
+      "name": "lib-arduino-SAMDTimerCounter",
+      "version": "0.1.1",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "Allows Arduino SAMD boards to enable timer interrupts.",
+      "paragraph": "This library allows you to enable timer interrupts with a resolution of 1 microseconds.",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-SAMDTimerCounter",
+      "category": "Device Timer",
+      "architectures": [
+        "samd"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-SAMDTimerCounter/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 11313,
+      "checksum": "SHA-256:3f583e38955e3cf96a6d669eeb5ba31074b933734daeb236b9efb9157a711b4f"
     },
     {
       "name": "lib-arduino-StepperCtrl",
