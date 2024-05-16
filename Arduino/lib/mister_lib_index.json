@@ -43,6 +43,27 @@
       "checksum": "SHA-256:5c9f1163c2cfe702dae4d19a40017f73368c1cb5c36487a4819eb66c872d876a"
     },
     {
+      "name": "lib-arduino-micro_ros_arduino_utilities",
+      "version": "1.0.0",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "repo to semplify lib-arduino-micro_ros_arduino usage",
+      "paragraph": "This library allows you to semplify lib-arduino-micro_ros_arduino usage",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino_utilities",
+      "category": "Device Control",
+      "architectures": [
+        "samd"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino_utilities/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 19000,
+      "checksum": "SHA-256:4b2a233fd9c47bcf82c1547282aaf2074efc96acaa546c29ffd302be00bf450f"
+    },
+    {
       "name": "lib-arduino-SAMDTimerCounter",
       "version": "0.1.1",
       "author": "Nicola Severino Russi",
