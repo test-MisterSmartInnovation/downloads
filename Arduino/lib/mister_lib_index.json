@@ -22,6 +22,27 @@
       "checksum": "SHA-256:4a1dca2a62e1a757e846374a91ce9c3e03a35b8d49b15d8a312b42b13057fe62"
     },
     {
+      "name": "lib-arduino-micro_ros_arduino",
+      "version": "v2.0.7-humble-0.1.0",
+      "author": "micro-ROS",
+      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
+      "sentence": "micro-ROS Arduino library",
+      "paragraph": "micro-ROS Arduino library",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino",
+      "category": "Other",
+      "architectures": [
+        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
+      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
+      "size": 3410009,
+      "checksum": "SHA-256:65e787e5a522c9532445a96f8a71bf6f98c9260e572f78b59823cb5e745848cb"
+    },
+    {
       "name": "lib-arduino-SAMDTimerCounter",
       "version": "0.1.1",
       "author": "Nicola Severino Russi",
