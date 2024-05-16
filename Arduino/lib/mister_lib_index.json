@@ -1,69 +1,6 @@
 {
   "libraries": [
     {
-      "name": "lib-arduino-micro_ros_arduino",
-      "version": "v2.0.7-humble-1.0.0",
-      "author": "micro-ROS",
-      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
-      "sentence": "micro-ROS Arduino library",
-      "paragraph": "micro-ROS Arduino library",
-      "website": "https://github.com/test-MisterSmartInnovation/micro_ros_arduino",
-      "category": "Other",
-      "architectures": [
-        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
-      ],
-      "types": [
-        "Arduino"
-      ],
-      "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
-      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
-      "size": 3361025,
-      "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
-    },
-    {
-      "name": "lib-arduino-micro_ros_arduino",
-      "version": "v2.0.7-humble-1.0.0",
-      "author": "micro-ROS",
-      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
-      "sentence": "micro-ROS Arduino library",
-      "paragraph": "micro-ROS Arduino library",
-      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino",
-      "category": "Other",
-      "architectures": [
-        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
-      ],
-      "types": [
-        "Arduino"
-      ],
-      "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
-      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
-      "size": 3410008,
-      "checksum": "SHA-256:5c9f1163c2cfe702dae4d19a40017f73368c1cb5c36487a4819eb66c872d876a"
-    },
-    {
-      "name": "lib-arduino-micro_ros_arduino",
-      "version": "v2.0.7-humble-1.0.0",
-      "author": "micro-ROS",
-      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
-      "sentence": "micro-ROS Arduino library",
-      "paragraph": "micro-ROS Arduino library",
-      "website": "https://github.com/test-MisterSmartInnovation/micro_ros_arduino",
-      "category": "Other",
-      "architectures": [
-        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
-      ],
-      "types": [
-        "Arduino"
-      ],
-      "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
-      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
-      "size": 3361025,
-      "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
-    },
-    {
       "name": "lib-arduino-micro_ros_arduino_utilities",
       "version": "1.0.0",
       "author": "Nicola Severino Russi",
