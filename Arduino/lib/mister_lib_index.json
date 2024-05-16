@@ -1,25 +1,25 @@
 {
   "libraries": [
     {
-      "name": "lib-arduino-Buffer",
-      "version": "1.0.0",
-      "author": "Nicola Severino Russi",
-      "maintainer": "Arduino <info@arduino.cc>",
-      "sentence": "This library allows you to add value in a buffer as a FIFO queue.",
-      "paragraph": "This library allows you to add value in a buffer as a FIFO queue.",
-      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-Buffer",
-      "category": "Device Control",
+      "name": "lib-arduino-micro_ros_arduino",
+      "version": "v2.0.7-humble-1.0.0",
+      "author": "micro-ROS",
+      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
+      "sentence": "micro-ROS Arduino library",
+      "paragraph": "micro-ROS Arduino library",
+      "website": "https://github.com/test-MisterSmartInnovation/micro_ros_arduino",
+      "category": "Other",
       "architectures": [
-        "*"
+        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-Buffer/1.0.0.zip",
-      "archiveFileName": "1.0.0.zip",
-      "size": 8000,
-      "checksum": "SHA-256:4a1dca2a62e1a757e846374a91ce9c3e03a35b8d49b15d8a312b42b13057fe62"
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
+      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
+      "size": 3361025,
+      "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
       "name": "lib-arduino-micro_ros_arduino",
@@ -41,6 +41,27 @@
       "archiveFileName": "v2.0.7-humble-1.0.0.zip",
       "size": 3410008,
       "checksum": "SHA-256:5c9f1163c2cfe702dae4d19a40017f73368c1cb5c36487a4819eb66c872d876a"
+    },
+    {
+      "name": "lib-arduino-micro_ros_arduino",
+      "version": "v2.0.7-humble-1.0.0",
+      "author": "micro-ROS",
+      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
+      "sentence": "micro-ROS Arduino library",
+      "paragraph": "micro-ROS Arduino library",
+      "website": "https://github.com/test-MisterSmartInnovation/micro_ros_arduino",
+      "category": "Other",
+      "architectures": [
+        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/micro_ros_arduino/v2.0.7-humble-1.0.0.zip",
+      "archiveFileName": "v2.0.7-humble-1.0.0.zip",
+      "size": 3361025,
+      "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
       "name": "lib-arduino-micro_ros_arduino_utilities",
