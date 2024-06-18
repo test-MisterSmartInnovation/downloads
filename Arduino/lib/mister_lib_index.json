@@ -123,8 +123,8 @@
       "repository": "",
       "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperSpeedCtrl/0.0.0.zip",
       "archiveFileName": "0.0.0.zip",
-      "size": 13783,
-      "checksum": "SHA-256:566952262aa56e3c8d8290c416580d41c77d003dfea609950a1f7026d2e33bf1"
+      "size": 13787,
+      "checksum": "SHA-256:3f18d9f1384ef836a1a66ed40d8ef059ed0c047b97a1061a1f4c3024719b010e"
     },
     {
       "name": "micro_ros_arduino",
