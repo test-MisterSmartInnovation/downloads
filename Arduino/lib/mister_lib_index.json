@@ -22,25 +22,25 @@
       "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
-      "name": "lib-arduino-micro_ros_arduino_utilities",
+      "name": "lib-arduino-StepperCtrl",
       "version": "1.0.0",
       "author": "Nicola Severino Russi",
-      "maintainer": "Nicola Severino Russi",
-      "sentence": "repo to semplify lib-arduino-micro_ros_arduino usage",
-      "paragraph": "This library allows you to semplify lib-arduino-micro_ros_arduino usage",
-      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino_utilities",
+      "maintainer": "Arduino <info@arduino.cc>",
+      "sentence": "Allows Arduino boards to control stepper motors in postion and speed mode.",
+      "paragraph": "This library allows you to control unipolar or bipolar stepper motors in position and speed mode. To use it you will need a stepper motor, and the appropriate hardware to control it.",
+      "website": "https://github.com/test-MisterSmartInnovatio/lib-arduino-StepperCtrl",
       "category": "Device Control",
       "architectures": [
-        "samd"
+        "*"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino_utilities/1.0.0.zip",
-      "archiveFileName": "1.0.0.zip",
-      "size": 16480,
-      "checksum": "SHA-256:3ea398df708f35f36c69416ea3275104ca037d1d6bb68e45903fa4bc21c60100"
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperCtrl/1.0.1.zip",
+      "archiveFileName": "1.0.1.zip",
+      "size": 11269,
+      "checksum": "SHA-256:10eba5750e362046466ae9631e04558a208d4ba2fa7e2a4b102fad50b60cf95e"
     },
     {
       "name": "lib-arduino-SAMDTimerCounter",
