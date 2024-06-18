@@ -22,25 +22,25 @@
       "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
-      "name": "lib-arduino-StepperCtrl",
+      "name": "lib-arduino-SAMDTimerCounter",
       "version": "1.0.0",
       "author": "Nicola Severino Russi",
-      "maintainer": "Arduino <info@arduino.cc>",
-      "sentence": "Allows Arduino boards to control stepper motors in postion and speed mode.",
-      "paragraph": "This library allows you to control unipolar or bipolar stepper motors in position and speed mode. To use it you will need a stepper motor, and the appropriate hardware to control it.",
-      "website": "https://github.com/test-MisterSmartInnovatio/lib-arduino-StepperCtrl",
-      "category": "Device Control",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "Allows Arduino SAMD boards to enable timer interrupts.",
+      "paragraph": "This library allows you to enable timer interrupts with a resolution of 1 microseconds.",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-SAMDTimerCounter",
+      "category": "Device Timer",
       "architectures": [
-        "*"
+        "samd"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperCtrl/1.0.1.zip",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-SAMDTimerCounter/1.0.1.zip",
       "archiveFileName": "1.0.1.zip",
-      "size": 11269,
-      "checksum": "SHA-256:10eba5750e362046466ae9631e04558a208d4ba2fa7e2a4b102fad50b60cf95e"
+      "size": 11372,
+      "checksum": "SHA-256:196f7e6af11a38d947f7b0bd6db27629069070355ff618454d8b763db7025794"
     },
     {
       "name": "lib-arduino-StepperCtrl",
