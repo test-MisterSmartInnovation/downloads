@@ -23,7 +23,7 @@
     },
     {
       "name": "lib-arduino-SAMDTimerCounter",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Nicola Severino Russi",
       "maintainer": "Nicola Severino Russi",
       "sentence": "Allows Arduino SAMD boards to enable timer interrupts.",
@@ -40,7 +40,7 @@
       "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-SAMDTimerCounter/1.0.1.zip",
       "archiveFileName": "1.0.1.zip",
       "size": 11372,
-      "checksum": "SHA-256:196f7e6af11a38d947f7b0bd6db27629069070355ff618454d8b763db7025794"
+      "checksum": "SHA-256:6ddb90852c722ee3a782871210486cdcab5b6427da1568939de91cd54aa3ed34"
     },
     {
       "name": "lib-arduino-StepperCtrl",
