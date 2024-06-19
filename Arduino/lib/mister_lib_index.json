@@ -39,8 +39,8 @@
       "repository": "",
       "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino_utilities/1.0.1.zip",
       "archiveFileName": "1.0.1.zip",
-      "size": 16899,
-      "checksum": "SHA-256:cda0173052467d2ae2156fca13b4fbbcf185f16de0253fd756dfaf492f4d1a9f"
+      "size": 16904,
+      "checksum": "SHA-256:2f51a4eedadaf0885f195534f0740798b94b3753ce04c4fbf1871378c8a91d16"
     },
     {
       "name": "lib-arduino-SAMDTimerCounter",
