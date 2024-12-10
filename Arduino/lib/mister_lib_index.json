@@ -22,25 +22,25 @@
       "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
-      "name": "lib-arduino-StepperSpeedCtrl",
-      "version": "0.0.0",
+      "name": "lib-arduino-micro_ros_arduino_utilities",
+      "version": "1.0.1",
       "author": "Nicola Severino Russi",
-      "maintainer": "Arduino <info@arduino.cc>",
-      "sentence": "Allows Arduino boards to control stepper motors with SamdTimer interrupt.",
-      "paragraph": "This library allows you to control bipolar stepper motors in speed mode. To use it you will need a stepper motor, and the appropriate hardware to control it.",
-      "website": "https://github.com/test-MisterSmartInnovatio/lib-arduino-StepperSpeedCtrl",
+      "maintainer": "Nicola Severino Russi",
+      "sentence": "repo to semplify lib-arduino-micro_ros_arduino usage",
+      "paragraph": "This library allows you to semplify lib-arduino-micro_ros_arduino usage",
+      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino_utilities",
       "category": "Device Control",
       "architectures": [
-        "*"
+        "samd"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperSpeedCtrl/1.0.0.zip",
-      "archiveFileName": "1.0.0.zip",
-      "size": 13791,
-      "checksum": "SHA-256:6c214499d9e405b69c255d989bbd49a02d26f5d0c822a80168105924f3961226"
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino_utilities/2.0.0.zip",
+      "archiveFileName": "2.0.0.zip",
+      "size": 12394,
+      "checksum": "SHA-256:aed280d6e4de2a24f897aae3cca443520f1ca9bff2c32734c5675879a2878ea5"
     },
     {
       "name": "lib-arduino-SAMDTimerCounter",
@@ -125,6 +125,27 @@
       "archiveFileName": "1.0.0.zip",
       "size": 11593,
       "checksum": "SHA-256:8935b31629d7c67913c2afc3e1931922e5e5f17a0a1f592312a4103f7087481a"
+    },
+    {
+      "name": "lib-arduino-StepperSpeedCtrl",
+      "version": "0.0.0",
+      "author": "Nicola Severino Russi",
+      "maintainer": "Arduino <info@arduino.cc>",
+      "sentence": "Allows Arduino boards to control stepper motors with SamdTimer interrupt.",
+      "paragraph": "This library allows you to control bipolar stepper motors in speed mode. To use it you will need a stepper motor, and the appropriate hardware to control it.",
+      "website": "https://github.com/test-MisterSmartInnovatio/lib-arduino-StepperSpeedCtrl",
+      "category": "Device Control",
+      "architectures": [
+        "*"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "",
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-StepperSpeedCtrl/1.0.0.zip",
+      "archiveFileName": "1.0.0.zip",
+      "size": 13791,
+      "checksum": "SHA-256:6c214499d9e405b69c255d989bbd49a02d26f5d0c822a80168105924f3961226"
     },
     {
       "name": "lib-arduino-StepperSpeedCtrl",
