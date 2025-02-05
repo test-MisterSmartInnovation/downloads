@@ -22,25 +22,25 @@
       "checksum": "SHA-256:fcce1991be5023754e6d66de395aa16b38f644fd273cd0bec6ad237dcbfcfdcd"
     },
     {
-      "name": "lib-arduino-micro_ros_arduino_utilities",
-      "version": "2.0.0",
-      "author": "Nicola Severino Russi",
-      "maintainer": "Nicola Severino Russi",
-      "sentence": "repo to semplify lib-arduino-micro_ros_arduino usage",
-      "paragraph": "This library allows you to semplify lib-arduino-micro_ros_arduino usage",
-      "website": "https://github.com/test-MisterSmartInnovation/lib-arduino-micro_ros_arduino_utilities",
-      "category": "Device Control",
+      "name": "micro_ros_arduino",
+      "version": "v2.0.7-humble_0.0.0",
+      "author": "micro-ROS",
+      "maintainer": "Nicola Severino Russi <nicolasrussi3@gmail.com>",
+      "sentence": "micro-ROS Arduino library",
+      "paragraph": "micro-ROS Arduino library",
+      "website": "https://github.com/test-MisterSmartInnovation/micro_ros_arduino",
+      "category": "Other",
       "architectures": [
-        "samd"
+        "stm32,OpenCR,Teensyduino,samd,sam,mbed,esp32,mbed_portenta"
       ],
       "types": [
         "Arduino"
       ],
       "repository": "",
-      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/lib-arduino-micro_ros_arduino_utilities/2.0.0.zip",
-      "archiveFileName": "2.0.0.zip",
-      "size": 12441,
-      "checksum": "SHA-256:62c0d0c81b4a4efa4eacc32c7397e984bf1367495818b20e786a60c1fe9048bc"
+      "url": "https://github.com/test-MisterSmartInnovation/downloads/raw/main/Arduino/libraries/micro_ros_arduino/v2.0.7-humble_0.0.0.zip",
+      "archiveFileName": "v2.0.7-humble_0.0.0.zip",
+      "size": 3385162,
+      "checksum": "SHA-256:d8af086dd26e9ce9c3703837b5efcaa435c8c9e2604b503df394c7319613af15"
     },
     {
       "name": "lib-arduino-StepperSpeedCtrl",
